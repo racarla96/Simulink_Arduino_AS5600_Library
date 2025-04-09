@@ -1,0 +1,11 @@
+rtGetInf.o: \
+ C:/Users/Rafael/Documents/GitHub/Simulink_Arduino_AS5600_Library/AS5600_Driver_ert_rtw/rtGetInf.c \
+ C:/Users/Rafael/Documents/GitHub/Simulink_Arduino_AS5600_Library/AS5600_Driver_ert_rtw/rtwtypes.h \
+ C:/Users/Rafael/Documents/GitHub/Simulink_Arduino_AS5600_Library/AS5600_Driver_ert_rtw/rtGetInf.h \
+ C:/Users/Rafael/Documents/GitHub/Simulink_Arduino_AS5600_Library/AS5600_Driver_ert_rtw/rt_nonfinite.h
+
+C:/Users/Rafael/Documents/GitHub/Simulink_Arduino_AS5600_Library/AS5600_Driver_ert_rtw/rtwtypes.h:
+
+C:/Users/Rafael/Documents/GitHub/Simulink_Arduino_AS5600_Library/AS5600_Driver_ert_rtw/rtGetInf.h:
+
+C:/Users/Rafael/Documents/GitHub/Simulink_Arduino_AS5600_Library/AS5600_Driver_ert_rtw/rt_nonfinite.h:
